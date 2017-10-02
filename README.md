@@ -5,7 +5,7 @@ minimal detection within images
 # Build instructions
 Just clone, configure cmake and `make build` / `make install`
 
-```
+```sh
 cmake .
 sudo make install
 ```
