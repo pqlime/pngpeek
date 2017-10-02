@@ -2,6 +2,14 @@
 Simple image steganography tool for hiding messages with
 minimal detection within images
 
+# Build instructions
+Just clone, configure cmake and `make build` / `make install`
+
+```
+cmake .
+sudo make install
+```
+
 # Examples
 
 ## Hiding file "secret.txt" in image "image.png"
